@@ -125,5 +125,6 @@ Llavors el que fa és que la tasca 1 encén i apaga el LED cada 500 ms mitjança
 Finalment, la tasca 3 és la que fa el analogread del que esta passant, imprimint per pantalla 'A' i té un delay de 1000ms.
 
 El video d'exemple del funcionament esta penjat.
+https://drive.google.com/file/d/1So3DB_XK4snkRWNBfuYHNxEVx8JJrki2/view?usp=sharing
 ![](Practica4TaskLED.jpg)
 
